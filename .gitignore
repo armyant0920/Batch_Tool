@@ -1,0 +1,7 @@
+/*/
+/*.sln
+/*.suo
+/*.csproj
+/*.vbproj
+/*.user
+!/*/**/
